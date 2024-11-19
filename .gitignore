@@ -1,0 +1,21 @@
+
+# Compiled files
+*.class
+*.exe
+*.dll
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# IDE files
+.idea
+*.iml
+
+node_modules/
+.idx/
+package-lock.json
+
